@@ -1,0 +1,37 @@
+.dig {
+	color: blue; text-align:center; 
+}
+table {
+	border: 1px solid black;
+}
+tr, th {
+	border: 1px solid black;
+}
+tr, td {
+	border: 1px solid black;
+}
+p {
+	color: green ; 
+}
+li{
+	color: gray ;
+}
+a{
+	color: deeppink ;
+}
+	a[href="post.html"]{
+		color: orange  ;
+	}
+	a[href="mywebsite.html"]{
+		color: orange ;
+	}
+	a[href="index.html"]{
+		color: orange ;
+	}
+button{
+	background-color : darkred ;
+}
+button:hover {
+	background-color: green;
+}
+	
